@@ -1,0 +1,38 @@
+*{
+    margin: 0px; padding 0px;
+}
+body{
+    background-color: grey;
+}
+#HIDNavbar{
+    min-width: 100vh;
+    height: 10vh;
+    background-color: red;
+    position:relative;
+}
+#HIDMain{
+    min-height: 200vh;
+    background-color: bisque;
+}
+.HIDArticle{
+    min-height: 25vh;
+    border-radius: 12px;
+    margin: 10px;
+    background-color: rgb(255, 190, 190);
+}
+
+#HIDFooter{
+    min-width: 100vh;
+    height: 10vh;
+    background-color: rgb(48, 68, 68);
+}
+
+.TH1{
+    color:black;
+    text-decoration: line-through;
+}
+
+.TD1{
+    color:rgb(255, 255, 255);
+    text-decoration: line-through;
+}
